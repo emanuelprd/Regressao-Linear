@@ -7,10 +7,10 @@ Y_i = \beta_0 + \beta_1 X_i + u_i \\
 $$
 
 $$
-Y_i = \text{Variável dependente} \\[1pt]
-X_i = \text{Variável independente} \\[1pt]
-\beta_0 = \text{Constante ou intercepto} \\[1pt]
-\beta_1 = \text{Coeficiente angular} \\[1pt]
+Y_i = \text{Variável dependente} \\
+X_i = \text{Variável independente} \\
+\beta_0 = \text{Constante ou intercepto} \\
+\beta_1 = \text{Coeficiente angular} \\
 u_i = \text{Erro}
 $$
 
