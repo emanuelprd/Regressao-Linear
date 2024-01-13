@@ -6,4 +6,4 @@ Não basta apenas estimar a função de regressão, para que ela seja confiável
 
 As fórmulas foram escritos no Python Markdown em Latex para melhor vizualização, há links para ajudar na parte dos cálculos e a bibliografia utilizada foram os livros Econometria Básica do Gujarati e Estatística Básica do Bussab e Morettin. 
 
-![Modelo de Regressao](https://github.com/emanuelprd/Regressao-Linear/blob/main/Regressao_PRB.BZ=F.png)
+![Modelo de Regressao](https://github.com/emanuelprd/Regressao-Linear/blob/main/Regressao_PRB.BZ=F)
