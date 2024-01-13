@@ -8,12 +8,16 @@ $$
 
 $$
 Y_i = \text{Variável dependente} \\
-
+$$
+$$
 X_i = \text{Variável independente} \\
-
+$$
+$$
 \beta_0 = \text{Constante ou intercepto} \\
-
+$$
 \beta_1 = \text{Coeficiente angular} \\
+$$
+$$
 u_i = \text{Erro}
 $$
 
