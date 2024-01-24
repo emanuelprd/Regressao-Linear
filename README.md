@@ -6,4 +6,4 @@ No notebook foi construído um modelo de regressão simples para estudar como va
 
 As fórmulas foram escritos no Python Markdown em Latex para melhor vizualização, há links para ajudar na parte dos cálculos e a bibliografia utilizada foram os livros Econometria Básica do Gujarati e Estatística Básica do Bussab e Morettin. 
 
-![Modelo de Regressao](https://github.com/emanuelprd/Regressao-Linear/blob/main/Regressao_PRB.BZ=F)
+![Modelo de Regressao](https://github.com/emanuelprd/Regressao-Linear/blob/main/Regressao_PRB.CL=F)
