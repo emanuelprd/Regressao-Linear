@@ -6,4 +6,4 @@ No notebook foi construído um modelo de regressão simples para estudar a rela�
 
 A bibliografia utilizada foram os livros Econometria Básica do Gujarati, Introdução à Econometria do Wooldridge e Estatística Básica do Bussab e Morettin, além disto há links complementares que podem ser úteis. 
 
-![Modelo de Regressao](https://github.com/emanuelprd/Regressao-Linear/blob/main/Gr%C3%A1fico%20da%20Regress%C3%A3o.png)
+![Modelo de Regressao](https://github.com/emanuelprd/Regressao-Linear/blob/main/Grafico_Regressao.png)
